@@ -46,9 +46,6 @@ This repository contains multiple Angular projects demonstrating:
 | Project Name | Description | Tech Stack | Status |
 |--------------|-------------|------------|--------|
 | **E-Commerce App** | Full-featured shopping application | Angular 17, NgRx, Angular Material | ✅ Complete |
-| **Task Manager** | Project management dashboard | Angular 17, RxJS, PrimeNG | 🚧 In Progress |
-| **Blog Platform** | Content management system | Angular 17, Firebase, TailwindCSS | ✅ Complete |
-| **Analytics Dashboard** | Data visualization app | Angular 17, Chart.js, Bootstrap | 🚧 In Progress |
 
 ## 🛠 Prerequisites
 
@@ -69,10 +66,6 @@ ng version
 ## 🚀 Installation
 
 ### Clone the Repository
-```bash
-git clone https://github.com/yourusername/angular-projects.git
-cd angular-projects
-```
 
 ### Install Dependencies
 ```bash
