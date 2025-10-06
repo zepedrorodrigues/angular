@@ -1,0 +1,7 @@
+<div class="profile-container" *ngIf="user$ | async as user">
+  <img [src]="user.avatar" 
+       [alt]="user.name + ' Avatar'" 
+       class="profile-avatar">
+  <h1 class="profile-name">{{ user.name }}</h1>
+  <p class="profile-bio">{{ user.bio }}</p>
+</div>
